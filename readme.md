@@ -2,9 +2,9 @@
 
 This maker holder is attached to the robot flange and allows the robot to paint with a cheap tool.
 
-The CAD is parametric, using Python. So different variations of the tool can be printed, with different sizes. This is useful for teaching, since it allows each student to have a slightly different tool, so each program has to be different.
+The design is modeled using Python for FreeCAD; thus, different variations of the tool can be 3D printed, with different sizes. This is useful for teaching, since it allows each student to have a slightly different tool; therefore, each student has to develop its own robot programming.
 
-If the tool is broken, you can print it again.
+If the tool is broken, it can be 3D printed it again with very little cost.
 
 It has two parts that have to be printed separately: the holder and its lid
 
